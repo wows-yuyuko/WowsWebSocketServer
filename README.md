@@ -1,4 +1,7 @@
 # WowsWebSocketServer
+
+`基于jdk20开发 springboot 3.0.6`
+
 wows 数据推送服务
 
 # 客户端自定义生成唯一的ID
